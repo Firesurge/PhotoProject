@@ -1,0 +1,15 @@
+.div1 {
+    color: red;
+}
+.centered {
+    text-align: center;
+    color: aqua;
+}
+.centered1 {
+    text-align: end;
+    color:black;
+}
+img {
+    max-width: 1080px;
+    
+}
